@@ -4,7 +4,7 @@
 ## Cronograma del curso
 
 |Actividad|Fecha de entrega|Evaluación|
-|:-|:-|-:-|
+|---|---|---|
 |Selección e identificación del tema – Preparación IPM|3 de Agosto|2.5 %|
 |Investigación primaria de Mercado	|10 de Agosto	|2.5 %|
 |Síntesis	|17 de Agosto	|2.5 %|
