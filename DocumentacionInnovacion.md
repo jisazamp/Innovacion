@@ -46,6 +46,7 @@ La calidad de la educación y la sostenibilidad son dos temas que cada vez van t
 
 ![Encuesta a padres](https://i.imgur.com/4TwAh2h.png)
 
+
 ## 4. Ideación
 4.1	Interpretar necesidades
 
