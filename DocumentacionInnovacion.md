@@ -33,6 +33,7 @@ La calidad de la educación y la sostenibilidad son dos temas que cada vez van t
 3.2	Síntesis
 
 **Resultados de la encuesta a padres de familia**
+
 -Mejorar el uso y manejo de las TIC: este es un resultado importante, ya que a la fecha, el 100% de los padres encuestados le gustaría que sus hijos se les formara mejor en el uso y manejo de las herramientas TIC, ya que estas son herramientas importantes para complementar, enriquecer y transformar la educación, ya que facilitan el acceso universal a la educación, reduce las diferencias en el aprendizaje, mejoran la calidad y pertinencia del aprendizaje.
 
 -Mayor educación sostenible, diferenciado su verdadero enfoque: por otro lado, uno de los resultados que arroja nuestra encuesta a los padres, es que no hay mucha claridad sobre lo que significa tener una educación sostenible, o una educación para la sostenibilidad. Acá me gustaría citar a la UNESCO, donde ellos señalan: "El Decenio de las Naciones Unidas para la educación con miras al Desarrollo Sostenible pretende promover la educación como fundamento de una sociedad más viable para la humanidad e integrar el Desarrollo Sostenible en el sistema de enseñanza escolar a todos los niveles. El Decenio intensificará igualmente la cooperación internacional en favor de la elaboración y de la puesta en común de prácticas, políticas y programas innovadores de educación para el Desarrollo Sostenible". Por lo que es importante que empecemos a educar sobre este tema, incluirlo en nuestros currículos, y encaminarnos a una educación para la sostenibilidad.
