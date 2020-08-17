@@ -19,6 +19,7 @@
 
 ## 1. Presentación del equipo de trabajo
 
+Nuestro equipo de trabajo está conformado por Juan Pablo Isaza y Cristian Camilo Hernández, estudiantes del programa de Ingeniería de Sistemas e Informática, y por Tatiana Medina, estudiante del programa de Ingeniería en Telecomunicaciones.
 
 ## 2. Descripción del tema
 
