@@ -23,6 +23,10 @@ Nuestro equipo de trabajo está conformado por Juan Pablo Isaza y Cristian Camil
 
 ## 2. Descripción del tema
 
+Nuestro proyecto consiste en explorar y conocer el concepto de sostenibilidad, y cómo este puede generar impacto no sólo en la vida cotidiana y la manera en que percibimos nuestro entorno, sino la forma en que puede aportar para tener una educación de calidad en Colombia.
+
+La calidad de la educación y la sostenibilidad son dos temas que cada vez van tomando más relevancia en nuestro país, primero porque la calidad de la educación en Colombia no es la mejor, y las autoridades educativas y la sociedad deben reconocer que las pruebas PISA, SABER y otras de este tipo, miden una parte de la calidad del sistema educativo, pero no evalúan todos los componentes que inciden en la calidad; por otro lado, los temas de sostenibilidad tienen un grandísimo impacto en el entorno social, como el acceso al trabajo, la salud, la vivienda, el esparcimiento, el derecho al aire limpio, entre muchos otros factores, por lo que es fundamental que se eduque acerca de estos temas en los hogares e instituciones educativas del país.
+
 ## 3. Inspiración
 3.1	Investigación primaria de mercado
 
