@@ -32,6 +32,10 @@ La calidad de la educación y la sostenibilidad son dos temas que cada vez van t
 
 ### 3.2	Síntesis
 
+**ENLACE A MURAL**
+
+https://app.mural.co/t/educacionsostenible4299/m/educacionsostenible4299/1597534653507/d733243f94f488047b718891d6467545a56b78fa
+
 **RESULTADOS DE LAS ENCUESTAS A PADRES DE FAMILIA**
 
 **Mejorar el uso y manejo de las TIC**: este es un resultado importante, ya que a la fecha, el 100% de los padres encuestados le gustaría que sus hijos se les formara mejor en el uso y manejo de las herramientas TIC, ya que estas son herramientas importantes para complementar, enriquecer y transformar la educación, ya que facilitan el acceso universal a la educación, reduce las diferencias en el aprendizaje, mejoran la calidad y pertinencia del aprendizaje.
