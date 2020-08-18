@@ -46,6 +46,23 @@ La calidad de la educación y la sostenibilidad son dos temas que cada vez van t
 
 ![Encuesta a padres](https://i.imgur.com/4TwAh2h.png)
 
+**RESULTADOS DE LAS ENCUESTAS A DOCENTES**
+
+**Diversificar y modernizar los métodos de educación**: Debemos reconocer que es un resultado esperado. Un gran número de docentes aseguran que sus instituciones educativas forman parte de colegios "tradicionales" y, que por tanto, son poco innovadores y, esto se debe en gran medida a que dentro de dichas instituciones es evidente la ausencia de equipos de computo, ausencia de conectividad a internet y, en los casos en los que se cuenta con esta red es de inestable calidad. Podemos traer a colación un resultado encontrado en la encuesta a padres de familia, en donde ellos afirman que confian en los conocimientos y metodologías de los maestros de sus hijos pero, reconocen que carecen de infraestructura, instalación y herramientas tecnológicas para subir el nivel de educación en los colegios rurales. Con lo anterior, podemos concluir que, en su gran mayoría, (2/3 de los encuestados) los docentes de instuciones educativas rurales necesitan un proceso de innovación y modernización de sus aulas y sus métodos educativos. 
+
+![Encuesta a docentes](https://i.imgur.com/SOt3tsL.png)
+![Encuesta a docentes](https://i.imgur.com/6WIBKXx.png)
+
+**Potenciar la educación sostenible en todos los escenarios posibles**: Los docentes asumen firmemente su responsabilidad con las diferentes modalidades de la educación sostenible, sin embargo, de manera unánime consideran que la educación para la sostenibilidad debería ser una base que se construya desde casa, pero, que también sea impartida de manera transversal en otras asignaturas que se dictan en la institución y, de esta manera los alumnos encontrarán en el tema un sentido de integridad y, por tanto, los niños y jóvenes puedan ejecutar acciones ligadas al sostenimiento dentro de todos los escenarios posibles de su vida, entendiendo que, actualmente casi que cualquier ejecutar humano tiene un impacto positivo o negativo dentro de los escenarios ambientales. 
+
+![Encuesta a docentes](https://i.imgur.com/L003nyO.png)
+
+**Encontrar y suplir necesidades tecnológicas para dar respuesta a desafíos sociales actuales.**: En la encuesta pudimos evidenciar que el 100% de los docentes encuestados reconocen la vitalidad y la importancia de la educación sostenible en conjunto con las herramientas tecnológicas para dar respuesta a muchas de las problemáticas sociales actuales. De esta combinación podemos concluir que tener un plan sólido de educación sostenible le invita a exhorta a los estudiantes a investigar cómo y por qué suceden las cosas, y a tomar decisiones propias sobre problemas ambientales complejos. Entonces, al desarrollarse y mejorar las habilidades de pensamiento crítico y creativo, surge una nueva generación de consumidores y trabajadores informados, así como de directivos y encargados de toma de decisiones, además de que les permite a los estudiantes tener una visión más global y apreciar la interconexión entre problemas sociales, ecológicos, económicos, culturales y políticos y, de manera local, refuerza un sentido de lugar y conexión a través de la participación de la comunidad. Cuando los estudiantes deciden aprender más o tomar medidas para cuidar su entorno, contactan con expertos de la comunidad, donantes, voluntarios y agrupaciones locales que ayudan a fortalecer la comunidad, así como a comprender y abordar problemas ambientales que afectan el vecindario.
+
+![Encuesta a docentes](https://i.imgur.com/yGctT3M.png)
+![Encuesta a docentes](https://i.imgur.com/h3fq5Kx.png)
+
+
 
 ## 4. Ideación
 4.1	Interpretar necesidades
