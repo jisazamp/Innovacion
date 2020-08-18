@@ -62,6 +62,9 @@ La calidad de la educación y la sostenibilidad son dos temas que cada vez van t
 ![Encuesta a docentes](https://i.imgur.com/yGctT3M.png)
 ![Encuesta a docentes](https://i.imgur.com/h3fq5Kx.png)
 
+**SÍNTESIS ENTREVISTA AL EXPERTO, CÉSAR ALEJANDRO ISAZA**
+
+La sostenibilidad como manejo adecuado de los recursos por parte de la población,  para no afectar  el acceso a estos para las futuras generaciones, hace que la integración  entre la actividad humana y el entorno ambiental se pueda dar, haciendo una concientización del impacto que se genera en la naturaleza y teniendo en cuenta la compensación, contribuyendo a la estabilidad de las actividades humanas; para esto es importante educar en la sostenibilidad,  incluyendo conceptos que consideren el impacto de las acciones humanas en contextos económicos, sociales y ambientales. Las empresas deben tener compromisos ambientales reglamentarios que obliguen a empresas que por su tamaño o actividad deban implementar medidas que garanticen la medición, reparación o mitigación de sus impactos; así mismo los estándares de la gestión ambiental favorecen la elaboración de  planes de mejora, evaluar los efectos de fenómenos naturales y otros  impactos ambientales causados por el hombre como el calentamiento global, creando planes de mitigación o adaptación, porque el ser humano depende de su entorno para garantizar su supervivencia.
 
 
 ## 4. Ideación
